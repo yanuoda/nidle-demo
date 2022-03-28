@@ -12,7 +12,7 @@ export default {
     HelloWorld
   },
   created () {
-    console.log('nidle test')
+    console.log('nidle test 1')
   }
 }
 </script>
