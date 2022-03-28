@@ -10,6 +10,9 @@ export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  created () {
+    console.log('nidle test 1')
   }
 }
 </script>
